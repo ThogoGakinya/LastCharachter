@@ -1,0 +1,14 @@
+C:\Users\Dev\Documents\C#\LastCharachter\obj\Debug\net8.0\LastCharachter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dev\Documents\C#\LastCharachter\obj\Debug\net8.0\LastCharachter.AssemblyInfoInputs.cache
+C:\Users\Dev\Documents\C#\LastCharachter\obj\Debug\net8.0\LastCharachter.AssemblyInfo.cs
+C:\Users\Dev\Documents\C#\LastCharachter\obj\Debug\net8.0\LastCharachter.csproj.CoreCompileInputs.cache
+C:\Users\Dev\Documents\C#\LastCharachter\bin\Debug\net8.0\LastCharachter.exe
+C:\Users\Dev\Documents\C#\LastCharachter\bin\Debug\net8.0\LastCharachter.deps.json
+C:\Users\Dev\Documents\C#\LastCharachter\bin\Debug\net8.0\LastCharachter.runtimeconfig.json
+C:\Users\Dev\Documents\C#\LastCharachter\bin\Debug\net8.0\LastCharachter.dll
+C:\Users\Dev\Documents\C#\LastCharachter\bin\Debug\net8.0\LastCharachter.pdb
+C:\Users\Dev\Documents\C#\LastCharachter\obj\Debug\net8.0\LastCharachter.dll
+C:\Users\Dev\Documents\C#\LastCharachter\obj\Debug\net8.0\refint\LastCharachter.dll
+C:\Users\Dev\Documents\C#\LastCharachter\obj\Debug\net8.0\LastCharachter.pdb
+C:\Users\Dev\Documents\C#\LastCharachter\obj\Debug\net8.0\LastCharachter.genruntimeconfig.cache
+C:\Users\Dev\Documents\C#\LastCharachter\obj\Debug\net8.0\ref\LastCharachter.dll
